@@ -1,0 +1,21 @@
+body{
+	background: gainsboro;
+	font-family: calibri;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	margin: 200px 0px 0px 0px;
+	padding: 0px;
+}
+button {
+	height: 50px;
+	width: 120px;
+	font-size: 20px;
+	background: black;
+	color: white;
+	border-radius: 10px 10px 10px 10px;
+	padding: 10px;
+}
